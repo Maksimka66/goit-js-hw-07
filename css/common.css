@@ -20,6 +20,7 @@ body {
   column-gap: 24px;
   row-gap: 48px;
   justify-content: center;
+  padding: 100px 190px;
 }
 
 .photo {
