@@ -1,4 +1,6 @@
 const sub = document.querySelector('.login-form');
+const btnSub = document.querySelector('button[type="submit"]');
+btnSub.classList.add('btnSub');
 
 sub.addEventListener('submit', event => {
   event.preventDefault();
